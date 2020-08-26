@@ -1,4 +1,4 @@
-# data_science_springboard
+# data_science_projects
 
 This is a repository for Alison Hung's projects.
 
